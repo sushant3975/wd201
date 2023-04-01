@@ -2,5 +2,15 @@
   "dependencies": {
     "eslint": "^8.36.0",
     "minimist": "^1.2.8"
-  }
+  },
+  "name": "wd201",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sushant patil <mrsushantpatil1234@gmail.com>",
+  "license": "ISC",
+  "description": ""
 }
